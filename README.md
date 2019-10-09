@@ -9,6 +9,6 @@
 # I learn to
 https://www.youtube.com/playlist?list=PLy9JCsy2u97lNUL3e3R-uoMQv5GDvf22T
 
-Thanks for great tutorial!
+<b>Thanks for great tutorial!</b>
 # License
 This project is licensed under the MIT License - see the [React_Native_UI/LICENSE](LICENSE)
