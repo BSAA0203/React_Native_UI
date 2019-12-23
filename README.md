@@ -1,5 +1,7 @@
 # React_Native_UI
     Clone Coding Instagram UI for study
+# Prerequisites
+    Node.js v10.16.3
 # Get Start
     > cd React_Native_UI
     > npm install
