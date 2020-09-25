@@ -2,6 +2,8 @@
     Clone Coding Instagram UI for study
 # Prerequisites
     Node.js v10.16.3
+    
+    Expo-cli v3.27.8
 # Get Start
     > cd React_Native_UI
     > npm install
